@@ -1,0 +1,43 @@
+
+.banner {
+  background-image: url(./images/fundo1.png);
+  background-size: cover;
+  background-position: center;
+  color:#fff;
+  padding: 5%;
+  text-align: center;
+}
+
+.banner h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+.banner p {
+    margin: auto;
+    font-size: 1.2em;
+}
+
+.search-bar {
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+
+.search-bar input {
+    padding: 10px;
+    margin-right: 10px;
+    width: 15em; 
+  }
+  
+  .search-bar button {
+    padding: 10px;
+    background-color: #ffffff;
+    color: #3498db;
+    border: 1px groove #000000;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1em;
+  }
