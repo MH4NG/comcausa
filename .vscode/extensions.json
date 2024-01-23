@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "usernamehw.errorlens",
+    "formulahendry.auto-rename-tag",
+    "wallabyjs.console-ninja",
+    "pkief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint"
+  ]
+}
